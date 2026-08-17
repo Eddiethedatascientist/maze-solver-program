@@ -102,6 +102,7 @@ The project follows a modular structure where different responsibilities are sep
 <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 03_03_18 PM" src="https://github.com/user-attachments/assets/7638220a-90fa-4b3d-8a64-6b0893d230f7" />
 
 ## 5.Project Structure ##
+```text
 Maze-Solver/
 │
 ├── visualization.py
