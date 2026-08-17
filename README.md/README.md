@@ -1,9 +1,9 @@
 ## Maze Solver & Algorithm Solver and Visualization Tool ##
-## 1. Project description ##
+# 1. Project description #
 
 A Python application for loading, visualizing, and solving maze problems using multiple pathfinding algorithms. The application provides a graphical user interface for selecting maze data, choosing a search algorithm, running the solver, and displaying the resulting path and performance metrics.
 
-#2. Project Overview#
+# 2. Project Overview #
 
 The project was developed as a personal project to consolidate and visualize knowledge from the Introduction to AI course at the University of Oulu, with a particular focus on search algorithms.
 
