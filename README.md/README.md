@@ -143,6 +143,7 @@ S . . # . .
 . . . . . #
 . # # # . #
 . . . # . T
+
 The exact module structure may evolve as the project continues to be developed. All of the codes can be found in the src folder in the repository.
 
 ## 6. Output ##
