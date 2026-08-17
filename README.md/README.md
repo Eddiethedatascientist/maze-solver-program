@@ -138,11 +138,14 @@ Each maze consists of a grid containing symbols representing different types of 
 
 Example:
 
+
+```text
 S . . # . .
 # # . # . #
 . . . . . #
 . # # # . #
 . . . # . T
+```
 
 The exact module structure may evolve as the project continues to be developed. All of the codes can be found in the src folder in the repository.
 
@@ -176,12 +179,19 @@ These metrics make it possible to compare how different algorithms behave when s
 ## 8. Technologies Used ##
 
 Python
+
 Tkinter
+
 File I/O
+
 Modular Programming
+
 Object / State-based program organization
+
 Search Algorithms
+
 Heuristic Search
+
 Graph Search
 
 ## 9. Key Concepts ##
@@ -189,19 +199,33 @@ Graph Search
 This project was built to reinforce practical understanding of:
 
 State-space search
+
 Search trees
+
 Graph traversal
+
 Path reconstruction
+
 Visited states
+
 Frontier management
+
 Heuristic-based search
+
 A* Search
+
 Greedy Best-First Search
+
 Breadth-First Search
+
 Depth-First Search
+
 Algorithm performance comparison
+
 Modular software architecture
+
 GUI event handling
+
 External data loading
 
 ## 10. Current Version ##
@@ -211,15 +235,25 @@ Version 1.0 — Initial Complete Application
 The first complete version of the project provides an end-to-end working application:
 
 Maze files can be loaded from an external directory
+
 Maze data can be processed and stored in application state
+
 Search algorithms can be selected through the GUI
+
 Four search algorithms are implemented
+
 Search results are returned through a common output structure
+
 The explored maze can be visualized
+
 The final route is reconstructed
+
 Performance metrics are calculated
+
 Results are displayed in the GUI
+
 The application can be reset and reused with different maze datasets
+
 The stand alone version which works without cmd interference
 
 This version establishes the core architecture of the project.
@@ -231,17 +265,29 @@ The next development stage will focus on improving the usability, visualization,
 Planned improvements include:
 
 Animated search visualization directly inside the GUI
+
 Step-by-step visualization of algorithm exploration
+
 Improved GUI layout and styling
+
 Better result formatting
+
 Input validation for invalid maze files
+
 Error messages for invalid user operations
+
 Handling cases where no valid route exists
+
 Algorithm comparison mode
+
 Visualization of heuristic values for A* and Greedy Search
+
 Visualization of search frontier / open sets
+
 More maze datasets
+
 Exporting search results
+
 Performance comparison between algorithms
 
 # Author #
@@ -249,4 +295,5 @@ Performance comparison between algorithms
 Eddie Nguyen
 
 Bachelor's Programme in Computer Science and Engineering
+
 University of Oulu, Finland
