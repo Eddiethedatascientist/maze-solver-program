@@ -101,4 +101,31 @@ This makes the project useful not only as a maze solver, but also as a small pla
 The project follows a modular structure where different responsibilities are separated into individual modules.
 <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 03_03_18 PM" src="https://github.com/user-attachments/assets/7638220a-90fa-4b3d-8a64-6b0893d230f7" />
 
+## 5.Project Structure ##
+Maze-Solver/
+│
+├── visualization.py
+├── guilib.py
+│
+├── A1_main.py
+├── A1_module.py
+│
+├── greedy1_main.py
+├── greedy1_module.py
+│
+├── bfs1_main.py
+├── maze_bfs_module.py
+│
+├── dfs1_main.py
+├── dfs1_module.py
+│
+├── measurement/
+│   ├── maze_01_easy.txt
+│   ├── maze_02_medium.txt
+│   ├── maze_03_large.txt
+│   ├── maze_04_dead_end.txt
+│   └── maze_05_complex.txt
+│
+└── README.md
 
+The exact module structure may evolve as the project continues to be developed.
