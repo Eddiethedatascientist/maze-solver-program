@@ -54,13 +54,13 @@ g(n) is the cost from the starting point to the current node
 h(n) is the estimated cost from the current node to the target
 f(n) is the total estimated cost
 
-#Greedy Search#
+# Greedy Search #
 
 Greedy Search selects the node that appears to be closest to the target according to the heuristic function.
 
 The algorithm focuses primarily on:
 
-h(n)
+h(n): heuristic is determined based on the Eulide distance
 
 This allows it to make fast decisions, although the resulting route is not necessarily optimal.
 
