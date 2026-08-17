@@ -82,11 +82,12 @@ It demonstrates a fundamentally different search strategy compared with BFS and 
 
 The application allows the same maze to be solved using different algorithms, making it possible to compare their behaviour.
 
-Algorithm	Search | Strategy	| Shortest Path | Guarantee	Heuristic
-A* Search |	Cost + heuristic |	Yes, under appropriate conditions	| Yes
-Greedy Search	| Heuristic-driven	| No	| Yes
-BFS	| Level-by-level | Yes, for unweighted mazes	| No
-DFS	| Depth-first	| No	| No
+| Algorithm | Search Strategy | Shortest Path Guarantee | Heuristic |
+|---|---|---|---|
+| A* Search | Cost + heuristic | Yes, under appropriate conditions | Yes |
+| Greedy Search | Heuristic-driven | No | Yes |
+| BFS | Level-by-level | Yes, for unweighted mazes | No |
+| DFS | Depth-first | No | No |
 
 The application reports:
 
