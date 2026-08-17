@@ -1,4 +1,4 @@
-Maze Solver & Algorithm Visualization Tool
+## Maze Solver & Algorithm Solver and Visualization Tool ##
 
 A Python application for loading, visualizing, and solving maze problems using multiple pathfinding algorithms. The application provides a graphical user interface for selecting maze data, choosing a search algorithm, running the solver, and displaying the resulting path and performance metrics.
 
