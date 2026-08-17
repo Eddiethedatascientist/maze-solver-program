@@ -164,6 +164,7 @@ The maze visualization also shows the explored search area and the resulting pat
 ## 7. Performance metrics ##
 
 | Metric |	Description |
+|---|---|
 | Route |	The sequence of coordinates from start to target |
 | Total tiles explored |	Number of tiles visited during the search |
 | Route length |	Number of positions in the resulting route |
